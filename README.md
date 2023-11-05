@@ -1,6 +1,6 @@
 # Hi there, this is my first project on GitHub
 
-Setup
+### Setup
 
     1.Installation of all covenants
     
