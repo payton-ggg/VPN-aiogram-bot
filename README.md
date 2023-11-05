@@ -1,7 +1,7 @@
 # Hi there, this is my first project on GitHub
 Terms
-    Screen-New Terminal Window
-    Ufw-Firewall that limits connectivity
+Screen-New Terminal Window
+Ufw-Firewall that limits connectivity
 
 Setup
     1.Installation of all covenants
