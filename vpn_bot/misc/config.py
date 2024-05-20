@@ -4,5 +4,4 @@ lolz_api=["Токен лолза", "Айди на лолзе", "Ник на ло
 crystal_pay=["Имя кассы(Crystal Pay)", "Токен кассы"]
 qiwi_key="Ключ киви"
 
-lolz_theme="https://t.me/end_soft"
 group_id="Айди человека куда будут лететь запросы с ТП"
