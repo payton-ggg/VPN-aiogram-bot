@@ -1,6 +1,6 @@
 ---
 
-# 🌐 VPN Config Shop Bot 🛒
+# VPN Config Shop Bot 🛒
 
 **VPN Config Shop Bot** allows you to easily purchase VPN configurations directly through Telegram! Stay safe and anonymous online by buying secure VPN configs with just a few clicks. 🚀
 
